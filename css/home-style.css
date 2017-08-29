@@ -1,0 +1,81 @@
+html,body,h1,h2,h3,h4,h5 {
+    font-family: "Open Sans", sans-serif
+    }
+    .mobview
+    {
+        position: fixed;
+       
+        width: 100%; 
+        
+    }
+    w3-top
+    {
+      height: 60px;   
+    }
+    .mainContainer
+    {
+        margin-top: 30px;
+    }
+    .w3-theme-dd2 {
+    
+        line-height: 61px;
+        background-color: #00796B;
+        box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19)
+    }
+    .seeAllNotification
+    {
+        color: #00796B; 
+        text-height: 800 ; 
+        background-color: rgba(0, 52, 44, 0.2);
+        text-align: center;
+        height: 50px;
+        text-decoration: none;
+    }
+    .seeAllNotification:hover
+    {
+        background-color: rgba(0, 52, 44, 0.1);
+    }
+    .logoimg {
+        padding-top: 7px;
+    }
+    .adbanner
+    {
+        position: fixed !important;
+    }
+    .postbox 
+    {
+        width: 100%;
+        border-radius: 2px 2px 2px 2px ;
+        resize: vertical;
+        border: none;
+    }
+    .commentbox 
+    {
+        width: 85%;
+        border-radius: 2px 2px 2px 2px ;
+        resize: vertical;
+        border: none;
+    }
+    .commentButton
+    {
+        float: right;
+        padding-right: 5px;
+        
+    }
+    .commentb
+    {
+         color:#000 ;
+        background-color:#fff ;
+        border-radius: 2px 2px 2px 2px;
+    }
+    .commentb:hover
+    {
+        color:#000!important ;
+        background-color:#f7f7f7!important ;
+        border-radius: 2px 2px 2px 2px!important;
+    }
+
+    .commentp
+    {
+        text-align: center;
+    }
